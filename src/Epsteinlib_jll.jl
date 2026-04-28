@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Epsteinlib")
-JLLWrappers.@generate_main_file("Epsteinlib", UUID("4ec54591-1743-56ec-8704-f258a6d96b61"))
+JLLWrappers.@generate_main_file("Epsteinlib", Base.UUID("4ec54591-1743-56ec-8704-f258a6d96b61"))
 end  # module Epsteinlib_jll

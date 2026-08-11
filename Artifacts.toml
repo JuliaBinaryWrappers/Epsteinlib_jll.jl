@@ -1,160 +1,160 @@
 [[Epsteinlib]]
 arch = "aarch64"
-git-tree-sha1 = "1a96612b95fb907434acf89769a94e7c21a34f1e"
+git-tree-sha1 = "937ef558535b37126c0f4bd597f013c4923ef794"
 os = "macos"
 
     [[Epsteinlib.download]]
-    sha256 = "db8905e9087f86387f31b75c4b341ecece0bbe5140b98467591b59b9a16763d6"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "e83e120c90c1192c62353f5701b255538a1ee9588a59c74935d8651ca8486a38"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.aarch64-apple-darwin.tar.gz"
 [[Epsteinlib]]
 arch = "aarch64"
-git-tree-sha1 = "69a547c89f237ce9bfb990eb30cef963af7f5748"
+git-tree-sha1 = "df334f96a677930fed0f8b21baaa19bb70fbf375"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "c2b1800499e979cdb11df17bbd8e27c984ab0ae2b6c9783782deb919692c2ab0"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "ede2760dd4789bbcb76ebe2cc089f9852624fd0c5d7bd28fc3662bb3d733b05a"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.aarch64-linux-gnu.tar.gz"
 [[Epsteinlib]]
 arch = "aarch64"
-git-tree-sha1 = "47ba4f037cfea9911f1a0be95ee83d3c0fc51ca2"
+git-tree-sha1 = "3b2241b74d45c7fa18e63f267e77553e39438c13"
 libc = "musl"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "5c7301d6db29dea85a7a3a32f7baee610fe4c53a05f3945a1eb07608a805fce6"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.aarch64-linux-musl.tar.gz"
+    sha256 = "1fb0cfe79b7dd9f5a894929e4236ab01450ab41faec8aa7df400faf0d40a57ae"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.aarch64-linux-musl.tar.gz"
 [[Epsteinlib]]
 arch = "aarch64"
-git-tree-sha1 = "4bac0ba36a26363ee664e8e63ae40984c140d2c4"
+git-tree-sha1 = "d57a7a7ce2e2e32e8f310b7bcb4983847c2bbbb0"
 os = "freebsd"
 
     [[Epsteinlib.download]]
-    sha256 = "d29163a5eb6c6aa5679d0348a1ea69f1e2629be2bb0ecb674d1e1453b95ae70a"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "ae313bdd51039996d13314aea58a94be85c65665e52acb576505780472e1a741"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.aarch64-unknown-freebsd.tar.gz"
 [[Epsteinlib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1cf31691c3baa494458a138c541194ba6454abcb"
+git-tree-sha1 = "001f304d3c399c6d3c4c3bee518aecfee9a0f934"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "b7c420aac9a67eff6f3db925134bae6f725e3673dba805778720602279d3d474"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "68e2fa84d96c6aa3138b10759a6684ecff34326aa57851ec6dd87d032db31b26"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.armv6l-linux-gnueabihf.tar.gz"
 [[Epsteinlib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "63e9e5202f5b137fb31ef248a0ed6b58f00e4da2"
+git-tree-sha1 = "9d0b60528d6b1beb7c2f3658a2fe2ece3953c389"
 libc = "musl"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "2d25f15272132f39d52027aa98a5757bc0f2137c695e28fe3886a2db8e965dcf"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "089e9f8b8bd7644cdb97b526b545523e52553da83253e89bd58b2f315a230e84"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.armv6l-linux-musleabihf.tar.gz"
 [[Epsteinlib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "40cb12ba24d4611de13eafc6b8a03e54eaf065d0"
+git-tree-sha1 = "714a0850295293485807feab9a71322f592f572c"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "74161d40740104f5e6f92819e900563a63cb33c245ec350bb9514cf783f44477"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "79e2517edd206d8fe576232c927ba9cfb672f9f4fb3ee101cdec71e2147ed862"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.armv7l-linux-gnueabihf.tar.gz"
 [[Epsteinlib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ca387c10539662bc5f5285e354a8d7a83824c941"
+git-tree-sha1 = "5d4fa5a6bead265d82c968c0fb1e8d85f657166f"
 libc = "musl"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "aa36037796f1e6d87cd6a96ac8b1257eb1f7c3107ae72c96fb2c00af50cc3a99"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3bb6361393cd28275807f9075915c93b6b0667c1d8fb8a2be6486bb5b0c7386d"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.armv7l-linux-musleabihf.tar.gz"
 [[Epsteinlib]]
 arch = "i686"
-git-tree-sha1 = "a1196795da46dedc68d619e1fcb795b9259671fa"
+git-tree-sha1 = "052d89645a214f5dcaf01ff9fe774e88d0db09df"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "f0e3fa7beb0e1339accaea67f024abc0506111018ed7ea16c382d4290eebb701"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.i686-linux-gnu.tar.gz"
+    sha256 = "61c4b22d0c69ced00e2e33c0bc517e9b5f5f02633f2bbceda46064f87db34a87"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.i686-linux-gnu.tar.gz"
 [[Epsteinlib]]
 arch = "i686"
-git-tree-sha1 = "9ba46a7d52c630ed99871b4fabfc9922a21bdb60"
+git-tree-sha1 = "1b67f11f3970d1bb035362f93d31aed4e17fee4f"
 libc = "musl"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "fc18c1735ae3adec8aa5654a48ff76e6ce9f753cc9a4514acd37cdce9afc2b80"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.i686-linux-musl.tar.gz"
+    sha256 = "6f2b00ac71fdd98dcfe8303fff6abcb2e5571bd0fa430f4b6656bfcabc93e592"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.i686-linux-musl.tar.gz"
 [[Epsteinlib]]
 arch = "i686"
-git-tree-sha1 = "6930d70107802f788889da061fd2fdb8a7a12e13"
+git-tree-sha1 = "c0e706799395df61e76a4885406a3bdd5600c520"
 os = "windows"
 
     [[Epsteinlib.download]]
-    sha256 = "cb9137dbcc9673187167815e80d342289d8314135564bed5429a670961a1bb05"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "b78adf7dab65136221041ce0e165b4847c0cebf5b5da3cd317bc25b8d9c00c87"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.i686-w64-mingw32.tar.gz"
 [[Epsteinlib]]
 arch = "powerpc64le"
-git-tree-sha1 = "5b39111bd8ba57a398f9f09cf7c57112af37e357"
+git-tree-sha1 = "c51de0d7f8f48ce95a6a0d596bedc729a1e92a16"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "ddc0741e7ad03b5b21569f762e8c147ff771ea31c2dc060c91f09413cbdac531"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b6792e54e4aed6f540892db8720850e260169aa473c8972eb7d2e0c5713aefec"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.powerpc64le-linux-gnu.tar.gz"
 [[Epsteinlib]]
 arch = "riscv64"
-git-tree-sha1 = "657d0ed3c7f6de4ce87b6329b002ed5cfde90693"
+git-tree-sha1 = "42d2d8f29e99f7e3041428c77845372938bb7fbd"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "055634ffc0d98c6a022d97fcc37151f77326565cf160a9ab727317f0b7906a38"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "ea0445b9f95434e9616abdb7ff9ea1f8c2221f640dcdf84f693c38c11ad666b4"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.riscv64-linux-gnu.tar.gz"
 [[Epsteinlib]]
 arch = "x86_64"
-git-tree-sha1 = "2670673584fe574e6d7a160f5b1e920b985a9fd0"
+git-tree-sha1 = "f24faecbc1949db07f93caacbb6844924bbf9760"
 os = "macos"
 
     [[Epsteinlib.download]]
-    sha256 = "8fbc230c550e8eb6b363cd5f8e3e50fe57392d0605f70a519a8259ed077ae85d"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "cbbf9f79ee7019a23a31cef06ea24a8ffb6ef5bd0f4f195cbc82ecb3b40a0b8c"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.x86_64-apple-darwin.tar.gz"
 [[Epsteinlib]]
 arch = "x86_64"
-git-tree-sha1 = "6de9d19a5c4f34039343aa8219de218e1b3624f9"
+git-tree-sha1 = "c8508678c89aa72a9cf54e4bc33b430fa1f314f5"
 libc = "glibc"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "9413a220339ab065f4300d9488184c7ea25507bc47ca653161d9caf479f475c2"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "15a78818ff94c0aed7b01f95ff8e5184066eb2fdfc4422639ccd2210a3828a9a"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.x86_64-linux-gnu.tar.gz"
 [[Epsteinlib]]
 arch = "x86_64"
-git-tree-sha1 = "13050800b8e1328eac8c2aa0e08318e4d5f0d86c"
+git-tree-sha1 = "0083ca89fa0f47c4cee0cc1fdaecf7ec6a94b395"
 libc = "musl"
 os = "linux"
 
     [[Epsteinlib.download]]
-    sha256 = "692b8fcd693abd92ee7dc706c2bfa88cf9231352e1ef1b99858f294756ff4fb6"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.x86_64-linux-musl.tar.gz"
+    sha256 = "979e0effb69820dbdb3e5ba884026081729156cba157373762b3a1fb892b43a3"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.x86_64-linux-musl.tar.gz"
 [[Epsteinlib]]
 arch = "x86_64"
-git-tree-sha1 = "d4a648247fc7228c90477e9b39e470b686e147b6"
+git-tree-sha1 = "ae90bbb3750638b087207c41c2490e77d30ae227"
 os = "freebsd"
 
     [[Epsteinlib.download]]
-    sha256 = "4d085a116f11e2d49dbad32869d153354e5ce9d663e9eea237e54c4b84cccaca"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "584d365305a37bd45456857d7a99ba51d1410287b20c15189b004a96f7f3b7a3"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.x86_64-unknown-freebsd.tar.gz"
 [[Epsteinlib]]
 arch = "x86_64"
-git-tree-sha1 = "bddb371b8fbb0192faa57feac133baf671d2eb2b"
+git-tree-sha1 = "4f50806592b606fb71d0b3cf75eebd6a8501dbe9"
 os = "windows"
 
     [[Epsteinlib.download]]
-    sha256 = "6e9c0a0190ed8c3e37d3d546d0e94531f19aae62b11f48826020c6d584f6cfc1"
-    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.5.1+0/Epsteinlib.v0.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "394d93525ecf992e8177662691ce851fb38179622a62f91c4794bc5714423f8a"
+    url = "https://github.com/JuliaBinaryWrappers/Epsteinlib_jll.jl/releases/download/Epsteinlib-v0.6.1+0/Epsteinlib.v0.6.1.x86_64-w64-mingw32.tar.gz"
